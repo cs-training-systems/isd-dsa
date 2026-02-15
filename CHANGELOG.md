@@ -14,11 +14,12 @@ All notable changes to the **ISD Decision Architecture** research project will b
 ### Added
 - **System Documentation:** Refactored `README.md` to establish the research framing (Computational Ontology & Decision Support).
 - **Project Justification:** Defined "Learning in Public" and "Taxonomic Discovery" phases to rationalize the high-density graph-based data intake.
+- **Documentation IA:** Relocated security/proprietary disclosure to the compliance section for improved readability and alignment with standard repository conventions.
 
 ## [0.1.0] - 2026-02-14
 
 ### Added
-- **Structural Taxonomy:** Established the project's primary directory architecture including `config/`, `content/`, `data/`, `docs/`, and `theory/`.
+- **Structural Taxonomy:** Established the project's primary directory architecture, including `config/`, `content/`, `data/`, `docs/`, and `theory/`.
 - **Primary Artifact (Initial Discovery):** Created `root.md` and `00_index.md` as the core nodes for initial topographic mapping.
 - **Reference Management:** Initialized `theory/references.bib` to house the project’s theoretical foundations and background research bibliography.
 - **Data Intake:** Created initial datasets (`isd_grc.csv`, `isd-grc-fdg-data.csv`) for preliminary GRC (Governance, Risk, and Compliance) logic mapping.
